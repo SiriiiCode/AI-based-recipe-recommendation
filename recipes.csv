@@ -1,0 +1,40 @@
+dish_name,ingredients,time,calories,type
+Omelette,egg onion oil,10,150,Non-Veg
+Egg Bhurji,egg onion tomato spices,15,180,Non-Veg
+Boiled Eggs,egg water salt,8,140,Non-Veg
+Chicken Curry,chicken onion tomato spices,40,450,Non-Veg
+Chicken Fry,chicken oil spices,30,420,Non-Veg
+Chicken Biryani,chicken rice onion spices,50,550,Non-Veg
+Fish Fry,fish oil spices,20,300,Non-Veg
+Fish Curry,fish onion tomato spices,35,380,Non-Veg
+Butter Chicken,chicken butter cream tomato,45,500,Non-Veg
+Egg Fried Rice,egg rice onion oil,20,320,Non-Veg
+
+Vegetable Pulao,rice carrot beans onion,25,300,Veg
+Veg Fried Rice,rice carrot beans onion,20,280,Veg
+Paneer Butter Masala,paneer tomato butter cream,30,400,Veg
+Paneer Tikka,paneer curd spices,25,350,Veg
+Aloo Gobi,potato cauliflower spices,25,250,Veg
+Aloo Fry,potato oil spices,20,220,Veg
+Vegetable Curry,mixed vegetables onion tomato,30,280,Veg
+Tomato Soup,tomato onion garlic,15,120,Veg
+Salad,cucumber tomato onion lemon,5,80,Veg
+Veg Sandwich,bread tomato cucumber butter,10,200,Veg
+
+Masala Dosa,rice urad dal potato,30,350,Veg
+Idli,rice urad dal,20,180,Veg
+Sambar,lentils vegetables spices,30,250,Veg
+Upma,semolina vegetables,20,230,Veg
+Poha,flattened rice onion peanuts,15,200,Veg
+
+Chicken Sandwich,chicken bread mayo,15,320,Non-Veg
+Egg Sandwich,egg bread butter,10,280,Non-Veg
+Chicken Roll,chicken roti onion,25,380,Non-Veg
+Chicken Nuggets,chicken crumbs oil,20,350,Non-Veg
+Chicken Pasta,chicken pasta cream,30,450,Non-Veg
+
+Veg Pasta,pasta vegetables sauce,25,320,Veg
+Mushroom Curry,mushroom onion tomato,30,280,Veg
+Palak Paneer,spinach paneer spices,30,350,Veg
+Chole,chickpeas onion tomato,35,300,Veg
+Rajma,chicken beans onion tomato,40,350,Veg
